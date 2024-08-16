@@ -1,0 +1,17 @@
+
+My ReelEstate Project Missing Work :-
+
+Backend Panel : 1. Create Dynamic Dashboard page > 1. Totoal Broker
+						   2. Total Properties
+						   3. Total user
+						   4. Total Enquires
+		2. Properties > add property > selected image not show
+		3. Change logo of realestate and user name strtoUppercase
+		4. Footer > remove copyright or rename adminLTE
+		5. Header > check properly and remove not important manus
+		6. when admin logout > page error
+		7. click on dashboard menus > will go another page
+
+
+Frontend Web : 1. When User added enquire > Show broker's information not a user info
+	       2. Search function not working
